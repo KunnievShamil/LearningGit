@@ -1,5 +1,6 @@
 package ru.pdd.learninggit.testpackage
 
 fun main() {
-    println("Hello, i'm from branch1")
+    print("Hello, ")
+    println("i'm from branch1")
 }
