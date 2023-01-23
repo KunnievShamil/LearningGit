@@ -6,4 +6,8 @@ class Promo {
 
     }
 
+    fun dsg() {
+
+    }
+
 }
