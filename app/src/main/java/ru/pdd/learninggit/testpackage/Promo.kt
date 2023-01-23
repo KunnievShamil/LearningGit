@@ -8,6 +8,7 @@ class Promo {
 
     fun dsg() {
 //11
+        //22
     }
 
 }
